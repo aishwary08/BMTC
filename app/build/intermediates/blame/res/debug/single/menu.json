@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\BMTC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\BMTC\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\BMTC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\signup.xml",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\BMTC\\app\\src\\main\\res\\menu\\signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\BMTC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\BMTC\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

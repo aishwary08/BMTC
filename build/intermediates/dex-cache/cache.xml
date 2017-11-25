@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\BMTC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\BMTC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_bdb9ba116ab1207029e80920deb90ff1b746ead9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\User\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d84e66700d28aa5d5617df09ed6ac50aa723c8a8">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cae8508d0ed296163f0f57fd7e4fe7f19649c22c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\User\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7a1824da98ebcd57be0961e8cb36dbfbdac7b806">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_46a4ee7e7b5e02ab4979bde0558ac7c8c0027087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\BMTC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de3a3f31962bf89425408e748ee7d958c57c9ac0">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\BMTC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c042202609425ac5b022eb0b88a2352c2450891\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\BMTC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="74929e13be4228366d7df7e3728f5fbe6c54253f">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\BMTC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a5e42f4b47cfff58f0279b55a0f07d7ff57b45e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_f11bccd9993669b2b6be9ecbc2114c7665374ee3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LENOVO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\User\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f11bccd9993669b2b6be9ecbc2114c7665374ee3.jar" />
+    </item>
+
+</items>
